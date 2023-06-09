@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "apollo-link-http": "^1.5.5",
-    "gatsby": "^2.0.9",
+    "gatsby": "^4.25.7",
     "gatsby-link": "^2.0.2",
     "gatsby-source-graphql": "^2.0.2",
     "react": "^16.5.2",
